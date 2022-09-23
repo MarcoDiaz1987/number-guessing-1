@@ -1,3 +1,5 @@
 print("напишите число и я умножу его на два")
-
+user_number = input()
+answer = user_number * 2
+print("Ваш результат : " + answer )
  
